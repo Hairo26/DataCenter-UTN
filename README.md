@@ -1,1 +1,1 @@
-# Documentación del Data Center - Equipo 4
+# Documentación del Data Center - Equipo 1
